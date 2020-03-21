@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/corona-toll-react-app/precache-manifest.b75d79adcb2f5cb5727b53275be1c7ec.js"
+  "/corona-toll-react-app/precache-manifest.3fc2c4babc581d1adb91ce6e117ff54e.js"
 );
 
 self.addEventListener('message', (event) => {

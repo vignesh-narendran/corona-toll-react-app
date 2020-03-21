@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/corona-toll-react-app/static/css/main.d82cfb86.chunk.css",
-    "main.js": "/corona-toll-react-app/static/js/main.318950dd.chunk.js",
-    "main.js.map": "/corona-toll-react-app/static/js/main.318950dd.chunk.js.map",
+    "main.js": "/corona-toll-react-app/static/js/main.405d77fb.chunk.js",
+    "main.js.map": "/corona-toll-react-app/static/js/main.405d77fb.chunk.js.map",
     "runtime-main.js": "/corona-toll-react-app/static/js/runtime-main.dafd2c55.js",
     "runtime-main.js.map": "/corona-toll-react-app/static/js/runtime-main.dafd2c55.js.map",
     "static/js/2.55104385.chunk.js": "/corona-toll-react-app/static/js/2.55104385.chunk.js",
     "static/js/2.55104385.chunk.js.map": "/corona-toll-react-app/static/js/2.55104385.chunk.js.map",
     "index.html": "/corona-toll-react-app/index.html",
-    "precache-manifest.b75d79adcb2f5cb5727b53275be1c7ec.js": "/corona-toll-react-app/precache-manifest.b75d79adcb2f5cb5727b53275be1c7ec.js",
+    "precache-manifest.3fc2c4babc581d1adb91ce6e117ff54e.js": "/corona-toll-react-app/precache-manifest.3fc2c4babc581d1adb91ce6e117ff54e.js",
     "service-worker.js": "/corona-toll-react-app/service-worker.js",
     "static/css/main.d82cfb86.chunk.css.map": "/corona-toll-react-app/static/css/main.d82cfb86.chunk.css.map",
     "static/js/2.55104385.chunk.js.LICENSE.txt": "/corona-toll-react-app/static/js/2.55104385.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.dafd2c55.js",
     "static/js/2.55104385.chunk.js",
     "static/css/main.d82cfb86.chunk.css",
-    "static/js/main.318950dd.chunk.js"
+    "static/js/main.405d77fb.chunk.js"
   ]
 }
