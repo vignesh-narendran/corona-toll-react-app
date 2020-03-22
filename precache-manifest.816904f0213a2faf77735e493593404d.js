@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "26fab466b2d65f095d961bfbf5ce2de7",
+    "revision": "d1c4293bb39ea05cb00ef69730e2dd0a",
     "url": "/corona-toll-react-app/index.html"
   },
   {
-    "revision": "bf98866513054b65c457",
-    "url": "/corona-toll-react-app/static/css/main.d82cfb86.chunk.css"
+    "revision": "f42950ad5ed31be33aa6",
+    "url": "/corona-toll-react-app/static/css/main.67e06196.chunk.css"
   },
   {
-    "revision": "bb319f2a9484a6d0087d",
-    "url": "/corona-toll-react-app/static/js/2.55104385.chunk.js"
+    "revision": "ee7a47ac485cc0e949d4",
+    "url": "/corona-toll-react-app/static/js/2.4ea25004.chunk.js"
   },
   {
     "revision": "f231859d6585c4cd5f80c344783ed269",
-    "url": "/corona-toll-react-app/static/js/2.55104385.chunk.js.LICENSE.txt"
+    "url": "/corona-toll-react-app/static/js/2.4ea25004.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bf98866513054b65c457",
-    "url": "/corona-toll-react-app/static/js/main.405d77fb.chunk.js"
+    "revision": "f42950ad5ed31be33aa6",
+    "url": "/corona-toll-react-app/static/js/main.6f3e6858.chunk.js"
   },
   {
     "revision": "d6f1259004db96834415",
